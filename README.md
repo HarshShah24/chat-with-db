@@ -1,4 +1,4 @@
-🤖Text-to-SQL Research POC
+🤖Text-to-SQL Weekend Project
 Natural Language to SQLite using LangChain, OpenAI, and Vector Retrieval.
 
 This project demonstrates a sophisticated pipeline that converts plain English questions into valid SQLite queries. Unlike basic implementations, this POC uses Dynamic Schema Retrieval to handle large databases efficiently without hitting LLM token limits.
