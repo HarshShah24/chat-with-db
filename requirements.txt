@@ -1,0 +1,8 @@
+langchain-openai
+langchain-community
+langchain-core
+pandas
+sqlalchemy
+scikit-learn
+python-dotenv
+requests
