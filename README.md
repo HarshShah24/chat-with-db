@@ -41,3 +41,7 @@ System Response:
 Logic: Joins Customer and Invoice tables, groups by customer ID, and sums the Total.
 
 SQL: SELECT c.FirstName, c.LastName, SUM(i.Total) FROM Customer c JOIN ...
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
